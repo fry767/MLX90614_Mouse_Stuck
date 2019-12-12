@@ -14,7 +14,7 @@ Arduino 1.6.5
 SparkFun IR Thermometer Evaluation Board - MLX90614
 ******************************************************************************/
 
-#include <SparkFunMLX90614.h>
+#include "SparkFunMLX90614.h"
 
 IRTherm::IRTherm()
 {

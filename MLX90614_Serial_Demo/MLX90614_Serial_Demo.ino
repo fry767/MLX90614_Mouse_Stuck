@@ -25,7 +25,7 @@
 ******************************************************************************/
 
 #include <Wire.h> // I2C library, required for MLX90614
-#include <SparkFunMLX90614.h> // SparkFunMLX90614 Arduino library
+#include "SparkFunMLX90614.h" // SparkFunMLX90614 Arduino library
 
 IRTherm therm; // Create an IRTherm object to interact with throughout
 
